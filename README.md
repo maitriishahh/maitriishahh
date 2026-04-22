@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently building AI & data projects** — from RAG pipelines to stock forecasting apps<br>👯 **I’m looking to collaborate on** GenAI applications, RAG pipelines, data analytics dashboards, or any Python-based ML/AI projects<br>🤝 **I’m looking for help with** deploying scalable LLM applications and optimizing vector search pipelines with FAISS<br>💬 **Ask me about** Python, GenAI, RAG systems, Power BI dashboards<br>⚡ **Fun fact:** If I'm not coding, I'm probably lost in a Pinterest rabbit hole at 1am calling it "research":)
+🔭 **I’m currently building AI & data projects** — from RAG pipelines to stock forecasting apps<br>👯 **I’m looking to collaborate on** GenAI applications, RAG pipelines, data analytics dashboards, or any Python-based AI/ML projects<br>🤝 **I’m looking for help with** deploying scalable LLM applications and optimizing vector search pipelines with FAISS<br>💬 **Ask me about** Python, GenAI, RAG systems, Power BI dashboards<br>⚡ **Fun fact:** If I'm not coding, I'm probably lost in a Pinterest rabbit hole at 1am calling it "research":)
 
 
 ## 🌐 Socials:
